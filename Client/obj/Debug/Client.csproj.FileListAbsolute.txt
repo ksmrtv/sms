@@ -1,0 +1,25 @@
+D:\Programming\WPF\DZ\sms\Client\bin\Debug\Client.exe.config
+D:\Other\projects\DZ C#\WCF\sms\Client\bin\Debug\Client.exe.config
+D:\Other\projects\DZ C#\WCF\sms\Client\bin\Debug\Client.exe
+D:\Other\projects\DZ C#\WCF\sms\Client\bin\Debug\Client.pdb
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.ClientForm.resources
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.LoginForm.resources
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.exe
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.pdb
+D:\Programming\WCF\Проекты\sms\Client\bin\Debug\Client.exe
+D:\Programming\WCF\Проекты\sms\Client\bin\Debug\Client.pdb
+D:\Programming\WCF\Проекты\sms\Client\bin\Debug\Client.exe.config
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.s.resources
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.ClientForm.resources
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.LoginForm.resources
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.exe
+D:\Programming\WCF\Проекты\sms\Client\obj\Debug\Client.pdb
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Client\bin\Debug\Client.exe.config
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Client\obj\Debug\Client.exe
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Client\obj\Debug\Client.pdb
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Other\projects\DZ C#\WCF\sms\Client\obj\Debug\Client.BalanceForm.resources

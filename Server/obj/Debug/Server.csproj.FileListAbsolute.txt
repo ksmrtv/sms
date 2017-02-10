@@ -1,0 +1,28 @@
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\Server.exe.config
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\Server.exe
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\Server.pdb
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\EntityFramework.dll
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\EntityFramework.xml
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\obj\Debug\Server.exe
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\obj\Debug\Server.pdb
+D:\Other\projects\DZ C#\WCF\SMS 2\sms\Server\obj\Debug\Server.ServerForm.resources
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\Server.exe.config
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.exe
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.pdb
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\Server.exe
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\Server.pdb
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\EntityFramework.dll
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\EntityFramework.xml
+D:\Other\projects\DZ C#\WCF\sms\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.ServerForm.resources
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.Migrations.InitialCreate.resources
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.Migrations.q1.resources
+D:\Other\projects\DZ C#\WCF\sms\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
